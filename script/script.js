@@ -12,20 +12,31 @@ function changeMainView() {
 <div class="panel fixed-bottom">
 <div class="text">
 <h1>Hello World</h1>
-<p>(Please scroll down)</p>
+<div class="hello">
+</div>
 </div>
 </div>
 <div class="panel layer-one">
+<div class="text">
 <h2>I'm Hungry</h2>
+<div class="fork">
+</div>
+</div>
 </div>
 <div class="panel layer-two">
+<div class="text">
 <h2>I'm Hungry for a job</h2>
+<div class="glasses">
+</div>
+</div>
 </div>
 <div class="panel layer-three">
-<h2>I want a place where I can use my skills and improve on them</h2>
+<div class="text">
+<h2 class="last">I want a place where I can use my skills, improve on them and contribute</h2>
+<div class="laptop">
 </div>
-<div class="panel layer-four">
-<h3>Want to help me or read more about who I am?</h3>
+<h3 class="last">Want to help me or read more about who I am?</h3>
+</div>
 </div>
 </div>`;
 
